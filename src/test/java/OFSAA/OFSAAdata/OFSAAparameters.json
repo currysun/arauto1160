@@ -1,0 +1,62 @@
+{
+  "controlFileVersion": "1.1",
+  "dataFilename":"IMPEXP565_20180703_203723_EXPDP.dmp",
+  "schema":"IMPEXP565",
+  "tableSpace":"IMPEXP565",
+  "lrmProductNameVersion":"ARforFED_v1.13.2.4",
+  "agileREPORTERVersion":"AgileREPORTER-1.15.9-b37",
+  "OFSAAVersion":"80600",
+  "configPackageName":"OFSAA_REG_REP_USFED",
+  "configPackagePrefix":"OFSAA_REG_REP_USFED_80600",
+  "timestamp":"2018-07-03 20:37:23",
+  "reports": [{
+    "entity": "WFBNA",
+    "type": "Consolidated",
+    "formInstance": "FFIEC031",
+    "formInstanceRevision": "13",
+    "referenceDate": "2015-12-31"
+  },
+    {
+      "entity": "WFBNA",
+      "type": "Consolidated",
+      "formInstance": "FFIEC041",
+      "formInstanceRevision": "13",
+      "referenceDate": "2015-12-31"
+    },
+    {
+      "entity": "WFALLC",
+      "type": "Solo",
+      "formInstance": "FRY7N",
+      "formInstanceRevision": "2",
+      "referenceDate": "2015-12-31"
+    }, {
+      "entity": "WFCB",
+      "type": "Solo",
+      "formInstance": "FR2314",
+      "formInstanceRevision": "3",
+      "referenceDate": "2015-12-31"
+    },
+    {
+      "entity": "WFBNA",
+      "type": "Consolidated",
+      "formInstance": "FRY9C",
+      "formInstanceRevision": "7",
+      "referenceDate": "2015-12-31"
+    },
+    {
+      "entity": "WFSLLC",
+      "type": "Solo",
+      "formInstance": "FRY11",
+      "formInstanceRevision": "3",
+      "referenceDate": "2015-12-31"
+    },
+    {
+      "entity": "WFBNA",
+      "type": "Consolidated",
+      "formInstance": "FRY9LP",
+      "formInstanceRevision": "5",
+      "referenceDate": "2015-12-31"
+    }
+
+  ]
+}

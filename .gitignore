@@ -1,0 +1,11 @@
+target/
+*.iml
+!.idea/
+.idea/*
+
+!.idea/codeStyleSettings.xml
+# !.idea/misc.xml
+# !.idea/sonarlint.xml
+# !.idea/inspectionProfiles/
+# !.idea/inspectionProfiles/*
+build/
